@@ -96,14 +96,3 @@ It acts as a barrier between trusted and untrusted networks, filtering unwanted 
 What is NAT in firewalls?
 Network Address Translation allows multiple devices to share a single public IP while hiding internal IP addresses.
 
-📂 Repository Structure
-arduino
-Copy
-Edit
-📁 Task-4-Firewall
- ├── 📄 README.md
- ├── 📂 Screenshots
- │    ├── step1_firewall_rules.png
- │    ├── step2_block_port23.png
- │    ├── step3_telnet_fail.png
- │    └── step4_remove_rule.png
